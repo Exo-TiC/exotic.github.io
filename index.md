@@ -1,5 +1,7 @@
+<img src="logo_v1.png" width="50%" />
+
 # Welcome to ExoTiC
-ExoTiC are Exoplanet Timeseries Characterisation Software and Programs
+Exoplanet Timeseries Characterisation Software and Programs are developed and maintained by the ExoTiC Team at the University of Bristol led by H.R. Wakeford.
 
 ## [ExoTiC-ISM](https://github.com/Exo-TiC/ExoTiC-ISM)
 Instrument Systematic Marginalisation package to work with Hubble WFC3 time series data. 
