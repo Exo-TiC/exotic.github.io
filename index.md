@@ -1,4 +1,4 @@
-<img src="logo_v1.png" width="50%" />
+<!-- <img src="logo_v1.png" width="50%" /> -->
 
 # Welcome to ExoTiC
 Exoplanet Timeseries Characterisation Software and Programs are developed and maintained by the ExoTiC Team at the University of Bristol led by H.R. Wakeford.
