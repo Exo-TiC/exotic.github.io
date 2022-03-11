@@ -1,4 +1,20 @@
 # Welcome to ExoTiC
+ExoTiC are Exoplanet Timeseries Characterisation Software and Programs
+
+## [ExoTiC-ISM](https://github.com/Exo-TiC/ExoTiC-ISM)
+Instrument Systematic Marginalisation package to work with Hubble WFC3 time series data. 
+
+## [ExoTiC-LD](https://github.com/Exo-TiC/ExoTiC-LD)
+A limb darkening calculator using 1D Kurucz or 3D Magic stellar models. 
+
+## [ExoTiC-MIRI](https://github.com/Exo-TiC/ExoTiC-MIRI)
+A package with custom tolls to work with the JWST MIRI pipeline for stages 1, 2, and 3.
+
+### Acknowledgments
+
+* Hannah Wakeford, Lecturer, University of Bristol - [hrwakeford](https://github.com/hrwakeford)
+* David Grant, Postdoc, University of Bristol - [davogrant](https://github.com/DavoGrant)
+* Lili Alderson, Grad-student, University of Bristol - [lili-alderson](https://github.com/lili-alderson)
 
 <!-- You can use the [editor on GitHub](https://github.com/Exo-TiC/exotic.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
