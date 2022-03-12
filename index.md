@@ -6,7 +6,7 @@ Exoplanet Timeseries Characterisation Software and Programs are developed and ma
 ## [ExoTiC-ISM](https://github.com/Exo-TiC/ExoTiC-ISM)
 Instrument Systematic Marginalisation package to work with Hubble WFC3 time series data. 
 
-## [ExoTiC-LD](https://github.com/Exo-TiC/ExoTiC-LD)
+## [ExoTiC-LD](https://exo-tic.github.io/ExoTiC-LD/)
 A limb darkening calculator using 1D Kurucz or 3D Magic stellar models. 
 
 ## [ExoTiC-MIRI](https://github.com/Exo-TiC/ExoTiC-MIRI)
