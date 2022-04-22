@@ -10,7 +10,7 @@ Instrument Systematic Marginalisation package to work with Hubble WFC3 time seri
 A limb darkening calculator using 1D Kurucz or 3D Magic stellar models. 
 
 ## [ExoTiC-MIRI](https://exotic-miri.readthedocs.io/en/latest/)
-A package with custom tolls to work with the JWST MIRI pipeline for stages 1, 2, and 3.
+A package with custom tools to work with the JWST MIRI pipeline for stages 1 and 2.
 
 ### Acknowledgments
 
