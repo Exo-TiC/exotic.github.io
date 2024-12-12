@@ -6,32 +6,32 @@ Exoplanet Timeseries Characterisation Software and Programs are developed and ma
 ### [ExoTiC-LD](https://exotic-ld.readthedocs.io/en/latest/)
 Thirty seconds to stellar limb-darkening coefficients using a library of models and functions of your choice
 
+* Contributors: [David Grant](https://github.com/DavoGrant) and [Hannah Wakeford](https://github.com/hrwakeford)
+
 ## JWST Pipelines
 
 ### [ExoTiC-JEDI](https://github.com/Exo-TiC/ExoTiC-JEDI)
 Exoplanet Timeseries Characterisation - JWST Extraction and Diagnostic Investigator for use on JWST NIRSpec BOTS 
 
+* Contributors: [Lili Alderson](https://github.com/lili-alderson), [Hannah Wakeford](https://github.com/hrwakeford), and [David Grant](https://github.com/DavoGrant)
+
 ### [ExoTiC-MIRI](https://exotic-miri.readthedocs.io/en/latest/)
 A package with custom tools to work with the JWST MIRI pipeline for stages 1 and 2.
+
+* Contributors: [David Grant](https://github.com/DavoGrant) and [Daniel Valentine](https://github.com/danvalent1ne)
 
 ## Hubble pipelines
 
 ### [ExoTiC-UVIS](https://github.com/Exo-TiC/ExoTiC-UVIS)
 A package with custom tools to download and work with HST WFC3-UVIS G280 observations 
 
+* Contributors: [Abby Boehm](https://github.com/AbbyBoehm), [Carlos Gascon](https://github.com/CarlosGascon), and [David Grant](https://github.com/DavoGrant)
+  
 ### [ExoTiC-ISM](https://github.com/Exo-TiC/ExoTiC-ISM)
 Instrument Systematic Marginalisation package to work with Hubble WFC3 time series data. 
 
+* Contributors: Iva Laginja and [Hannah Wakeford](https://github.com/hrwakeford)
 
-
-
-
-### Acknowledgments
-
-* Hannah Wakeford, Lecturer, University of Bristol - [hrwakeford](https://github.com/hrwakeford)
-* David Grant, Former Postdoc, University of Bristol - [davogrant](https://github.com/DavoGrant)
-* Lili Alderson, Former Grad-student, University of Bristol - [lili-alderson](https://github.com/lili-alderson)
-* Daniel Valentine, Grad-student, University of Bristol - [danvalent1ne](https://github.com/danvalent1ne)
 
 <!-- You can use the [editor on GitHub](https://github.com/Exo-TiC/exotic.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
